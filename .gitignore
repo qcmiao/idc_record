@@ -1,0 +1,4 @@
+*.pyc
+*.idea
+.venv
+idc_record/idc/migrations/*
